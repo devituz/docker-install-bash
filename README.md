@@ -29,7 +29,7 @@ It checks whether Docker and Docker Compose are already installed and installs t
 ### 1. Clone or download the script
 
 ```bash
-git clone https://github.com/devituz/docker-install-bash
+git clone git@github.com:devituz/docker-install-bash.git
 
 chmod +x install-docker.sh
 
