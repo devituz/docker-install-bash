@@ -32,5 +32,7 @@ It checks whether Docker and Docker Compose are already installed and installs t
 git clone git@github.com:devituz/docker-install-bash.git
 
 chmod +x install-docker.sh
+chmod +x install-php-composer.sh
 
 ./install-docker.sh
+./install-php-composer.sh
